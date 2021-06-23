@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+#submit1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 35px;
+    width: 80px;
+    transition-duration: 0.4s;
+    border: none;
+    background-color: burlywood;
+    color:white;
+}
+#submit1:hover {
+    background-color: ghostwhite; 
+    color: #000;
+  }
+
+#sort1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 35px;
+    width: 80px;
+    transition-duration: 0.4s;
+    border: none;
+    background-color: burlywood;
+    color:white;
+    display: none;
+}
+
+#sort1:hover {
+    background-color: ghostwhite; 
+    color: #000;
+  }
+
+input {
+    margin: 10px;
+    background-color: bisque;
+    height: 25px;
+    border: none;
+    border: yellowgreen;
+}
+
+span {
+  color: white;  
+}
+
+h3 {
+    font-size: 30px;
+    color: black;
+}
